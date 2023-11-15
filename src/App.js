@@ -1,8 +1,6 @@
 // App.js
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { faUser, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import "./App.css";
 
 const App = () => {
